@@ -8,7 +8,7 @@ TITLE:REALTOR®
 EMAIL;type=INTERNET;type=WORK;type=pref:jeff@myhomeconnection.net
 TEL;type=WORK;type=VOICE:(602) 326-9008
 item1.ADR;type=WORK;type=pref:;;2355 W Utopia Rd;;;Phoenix, AZ 85027
-item1.X-ABADR:sg
+item1.X-ABADR:US
 item2.URL;type=pref:www.myhomeconnection.net
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
